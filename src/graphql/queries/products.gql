@@ -1,0 +1,6 @@
+query GetProducts {
+    loadProducts {
+      id
+      title
+    }
+  }
